@@ -1,7 +1,8 @@
 {
-	"type": "Block",
+	"type": "Wall",
 	"name": "Huge Plastanium Wall",
 	"description": "An extremely durable defensive block. Builds up charge on bullet contact, releasing it randomly. Spans multiple tiles.",
+	"insulated": true,
 	"health": 6080,
 	"size": 3,
 	"breakable": true,
