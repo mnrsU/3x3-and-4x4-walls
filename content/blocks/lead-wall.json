@@ -8,7 +8,7 @@
 	"category": "defense",
 	"lightningChance": 0.15,
 	"lightningDamage": 10,
-	"lightningLength": 5,
+	"lightningLength": 15,
 	"requirements": [
 		{ "item": "lead", "amount": 6}
 	]
