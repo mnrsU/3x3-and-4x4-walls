@@ -7,6 +7,6 @@
 	"breakable": true,
 	"category": "defense",
 	"requirements": [
-		{ "item": "thorium", "amount": 288 }
+		{ "item": "thorium", "amount": 96}
 	]
 }

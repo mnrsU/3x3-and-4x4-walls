@@ -8,6 +8,6 @@
 	"breakable": true,
 	"category": "defense",
 	"requirements": [
-		{ "item": "plastanium", "amount": 288 }
+		{ "item": "plastanium", "amount": 96}
 	]
 }

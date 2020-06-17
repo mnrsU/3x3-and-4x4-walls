@@ -7,6 +7,6 @@
 	"breakable": true,
 	"category": "defense",
 	"requirements": [
-		{ "item": "phase-fabric", "amount": 288 }
+		{ "item": "phase-fabric", "amount": 96}
 	]
 }

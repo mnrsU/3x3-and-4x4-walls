@@ -1,0 +1,15 @@
+{
+	"type": "SurgeWall",
+	"name": "Large Lead Wall",
+	"description": "A moderately-weak defensive block. Builds up charge on bullet contact, releasing it randomly",
+	"health": 960,
+	"size": 2,
+	"breakable": true,
+	"category": "defense",
+	"lightningChance": 0.15,
+	"lightningDamage": 10,
+	"lightningLength": 5,
+	"requirements": [
+		{ "item": "lead", "amount": 24}
+	]
+}

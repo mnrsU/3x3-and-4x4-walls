@@ -1,12 +1,12 @@
 {
 	"type": "Wall",
 	"name": "Huge Titanium Wall",
-	"description": "A extremely strong defensive block. Provides moderate protection from enemies. Spans multiple tiles.",
-	"health": 7040,
+	"description": "A strong defensive block. Provides moderate protection from enemies. Spans multiple tiles.",
+	"health": 3960,
 	"size": 3,
 	"breakable": true,
 	"category": "defense",
 	"requirements": [
-		{ "item": "titanium", "amount": 96 }
+		{ "item": "titanium", "amount": 54}
 	]
 }

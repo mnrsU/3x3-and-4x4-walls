@@ -7,6 +7,6 @@
 	"breakable": true,
 	"category": "defense",
 	"requirements": [
-		{ "item": "titanium", "amount": 288 }
+		{ "item": "titanium", "amount": 96}
 	]
 }
