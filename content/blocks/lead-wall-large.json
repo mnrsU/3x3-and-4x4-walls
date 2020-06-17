@@ -7,7 +7,7 @@
 	"breakable": true,
 	"category": "defense",
 	"lightningChance": 0.15,
-	"lightningDamage": 10,
+	"lightningDamage": 5,
 	"lightningLength": 15,
 	"requirements": [
 		{ "item": "lead", "amount": 24}
