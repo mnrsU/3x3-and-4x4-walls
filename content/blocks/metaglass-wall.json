@@ -1,0 +1,14 @@
+{
+	"type": "LiquidRouter",
+	"name": "Metaglass Wall",
+	"description": "A special wall that holds liquids. Good for oil bombing or liquid transport",
+	"health": 400,
+	"size": 1,
+	"breakable": true,
+	"category": "defense",
+	"liquidCapacity": 100,
+	"requirements": [
+		{"item": "metaglass", "amount": 4}
+		{"item": "metaglass", "amount": 2}
+	]
+}

@@ -9,6 +9,7 @@
 	"lightningChance": 0.15,
 	"lightningDamage": 5,
 	"lightningLength": 15,
+	"research": "copper-wall",
 	"requirements": [
 		{ "item": "lead", "amount": 6}
 	]
