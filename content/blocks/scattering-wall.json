@@ -16,7 +16,6 @@
       "damage": 5,
       "reloadMultiplier": 1,
       "ammoMultiplier": 10,
-      "bullets": {"standardCopper"},
     },
   },
   "requirements": [
