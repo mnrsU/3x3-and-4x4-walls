@@ -3,7 +3,7 @@
   "name": "Scattering Wall",
   "description": "Sprays bullets everywhere. What a mess.",
   "health": 400,
-  "shootRange": 5,
+  "shootRange": 1,
   "recoilAmount": 0,
   "size": 1,
   "reload": 1,
@@ -14,13 +14,13 @@
   "maxAmmo": 100,
   "ammo": {
     "copper": {
-      "speed": 7,
+      "speed": 1,
       "damage": 7,
       "bulletWidth": 7,
       "bulletHeight": 9,
       "shootEffect": "shootSmall",
       "smokeEffect": "shootSmallSmoke",
-      "ammoMultiplier": 1,
+      "ammoMultiplier": 5,
     }
   },
   "requirements": [
