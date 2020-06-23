@@ -22,5 +22,5 @@
   "requirements": [
     {"item": "copper", "amount": 3}
     {"item": "lead", "amount": 3}
-  ]
+  ],
 }
