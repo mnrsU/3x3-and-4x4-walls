@@ -43,7 +43,7 @@ research: duo
       "damage": 5,
       "reloadMultiplier": 1,
       "ammoMultiplier": 10,
-      "bullets": {"standardCopper"},
+      "bullets": "standardCopper",
     },
   },
   "requirements": [
