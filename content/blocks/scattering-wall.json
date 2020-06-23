@@ -1,5 +1,5 @@
 {
-  "type": "DoubleTurret",
+  "type": "itemTurret",
   "name": "Scattering Wall",
   "description": "Sprays bullets everywhere. What a mess.",
   "health": 400,
@@ -9,7 +9,8 @@
   "ammoUseEffect": "shellEjectSmall",
   "inaccuracy": 500,
   "rotatespeed": 20,
-  
+  "hasItems": true,
+  "hasLiquids": true,
   "ammo": {
     "copper": {
       "speed": 7,
@@ -21,7 +22,6 @@
       "ammoMultiplier": 50,
     }
   },
-  
   "requirements": [
     { "item": "copper", "amount": 10},
     { "item": "lead", "amount": 10}
