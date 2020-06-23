@@ -1,25 +1,31 @@
 {
-  "type": "Turret",
+  "type": "DoubleTurret",
   "name": "Scattering Wall",
   "description": "Sprays bullets everywhere. What a mess.",
   "health": 400,
   "size": 1,
   "reload": 1,
   "range": 30,
+  "ammoUseEffect": "shellEjectSmall",
   "inaccuracy": 500,
   "rotatespeed": 20,
-  "category": "defense",
-  "recoilAmount": 0,
+  
   "ammo": {
     "copper": {
-      "speed": 3,
-      "damage": 5,
-      "reloadMultiplier": 1,
-      "ammoMultiplier": 10,
-    },
+      "speed": 7,
+      "damage": 7,
+      "bulletWidth": 7,
+      "bulletHeight": 9,
+      "shootEffect": "shootSmall",
+      "smokeEffect": "shootSmallSmoke",
+      "ammoMultiplier": 50,
+    }
   },
+  
   "requirements": [
-    {"item": "copper", "amount": 3}
-    {"item": "lead", "amount": 3}
+    { "item": "copper", "amount": 10},
+    { "item": "lead", "amount": 10}
   ],
+  "category": "turret",
+  "research": "copper-wall"
 }
