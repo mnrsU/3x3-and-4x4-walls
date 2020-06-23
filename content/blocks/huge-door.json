@@ -1,0 +1,13 @@
+{
+	"type": "Door",
+	"name": "Huge Door",
+	"description": "A Huge door. Can be opened or closed by tapping.",
+	"health": 3600,
+	"size": 3,
+	"breakable": true,
+	"category": "defense",
+	"requirements": [
+		{"item": "graphite", "amount": 54}
+		{"item": "silicon", "amount": 36}
+	]
+}
