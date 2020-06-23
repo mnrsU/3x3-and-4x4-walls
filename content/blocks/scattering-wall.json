@@ -3,6 +3,8 @@
   "name": "Scattering Wall",
   "description": "Sprays bullets everywhere. What a mess.",
   "health": 400,
+  "shootRange": 5,
+  "recoilAmount": 0,
   "size": 1,
   "reload": 1,
   "range": 30,
