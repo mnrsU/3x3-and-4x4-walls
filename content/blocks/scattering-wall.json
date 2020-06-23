@@ -33,17 +33,17 @@ research: duo
   "health": 400,
   "size": 1,
   "reload": 2,
-  "range": 50,
+  "range": 30,
   "inaccuracy": 500,
   "rotatespeed": 20,
   "category": "defense",
+  "recoilAmount": 0,
   "ammo": {
     "copper": {
       "speed": 3,
       "damage": 5,
       "reloadMultiplier": 1,
       "ammoMultiplier": 10,
-      "bullets": "standardCopper",
     },
   },
   "requirements": [
