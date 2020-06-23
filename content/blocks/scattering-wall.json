@@ -1,5 +1,5 @@
 {
-  "type": "Turret",
+  "type": "DoubleTurret",
   "name": "Scattering Wall",
   "description": "Sprays bullets everywhere. What a mess.",
   "health": 400,
