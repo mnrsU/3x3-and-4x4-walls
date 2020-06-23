@@ -9,8 +9,7 @@
   "ammoUseEffect": "shellEjectSmall",
   "inaccuracy": 500,
   "rotatespeed": 20,
-  "hasItems": true,
-  "hasLiquids": true,
+  "itemCapacity": 100,
   "ammo": {
     "copper": {
       "speed": 7,
