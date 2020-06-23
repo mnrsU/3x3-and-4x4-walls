@@ -9,8 +9,9 @@
   "reload": 1,
   "range": 30,
   "ammoUseEffect": "shellEjectSmall",
-  "inaccuracy": 500,
-  "rotatespeed": 20,
+  "inaccuracy": 360,
+  "rotatespeed": 0,
+  "shootCone": 360,
   "maxAmmo": 100,
   "ammo": {
     "copper": {
