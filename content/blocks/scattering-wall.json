@@ -26,6 +26,6 @@
     { "item": "copper", "amount": 10},
     { "item": "lead", "amount": 10}
   ],
-  "category": "turret",
+  "category": "defense",
   "research": "copper-wall"
 }
