@@ -9,7 +9,7 @@
   "ammoUseEffect": "shellEjectSmall",
   "inaccuracy": 500,
   "rotatespeed": 20,
-  "itemCapacity": 100,
+  "maxAmmo": 100,
   "ammo": {
     "copper": {
       "speed": 7,
