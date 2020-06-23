@@ -4,7 +4,7 @@
   "description": "Sprays bullets everywhere. What a mess.",
   "health": 400,
   "size": 1,
-  "reload": 2,
+  "reload": 1,
   "range": 30,
   "inaccuracy": 500,
   "rotatespeed": 20,
