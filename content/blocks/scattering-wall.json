@@ -1,11 +1,3 @@
-
-  type: DoubleTurret
-name: Silver Turret
-description: Sprays useless silver bullets everywhere. What a mess.
-health: 200
-size: 1
-reload: 4
-range: 100
 {
   "type": "Turret",
   "name": "Scattering Wall",
@@ -24,6 +16,7 @@ range: 100
       "damage": 5,
       "reloadMultiplier": 1,
       "ammoMultiplier": 10,
+      "bullets": {"standardCopper"},
     },
   },
   "requirements": [
